@@ -1,0 +1,2 @@
+//input[contains(@value,'Feeling Lucky') and boolean(@id)]
+https://www.google.com
